@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CalvinAtGit
 - 👀 I’m interested in modding and KSP
-- 🌱 I’m currently learning Java and kOS
+- 🌱 I’m currently learning JavaScript/React and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
